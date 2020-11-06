@@ -1,0 +1,35 @@
+#+STARTUP: indent
+#+BAD DIRECTIVE: some values
+#+GOOD_DIRECTIVE: some values
+# comment string
+-*bad heading
+* First level node 1 :tag0:tag1::tag2:tag3:tag4:tag5:
+some text in first level node 1
+** Second level node
+text in second level node
+*** Third level node
+text in third level node
+# comment string
+*** heading with star * :some_tag:other_tag:
+text
+* First level node 2 [1/2]                                     :tag1:tag2:tag3:
+some text in first level node 2
+other text in first level node 2
+** DONE [#C] Second level node 2
+text in second level node 2
+# comment
+:FOLDING:
+1. numbered list item
+2. numbered list item
+   - list item 1
+     - subitem
+       1. sub-subitem
+       2. sub-subitem
+     - subitem
+   - list item 2
+   - list item 3
+3. numbered list item
+4. last numbered list item
+:END:
+** TODO [#A] Second level node 3
+some text in level 2

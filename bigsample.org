@@ -1,0 +1,414 @@
+#+TAGS: dark black blue blue_black gray green red brown violet fuchsia dry wet orange yellow light ferro methylviolet
+#+STARTUP: indent nologdone
+* De Atramentis [2/3]
+[[https://www.de-atramentis.com/][сайт производителя]]
+** DONE De Atramentis Deepwater Obsession BlackBlue :blue_black:dark:
+Зеленовато-синевато-чёрные чернила, с хорошо различимым оттенком, по разному выглядящим при разном освещении. Пригодны для повседневного письма.
+*** где купить
+[[http://getpen.ru/de-atramentis-deepwater-obsession/i/2180][флакон 35 мл в getpen]]
+*** в наличии
+флакон 35 мл
+** DONE De Atramentis Sapphire Blue :blue:dark:
+Тёмно-синие чернила с фиолетовым оттенком. Текучесть нормальная. Пригодны для повседневного письма.
+*** где купить
+[[http://getpen.ru/de-atramentis-sapphire-blue%20/i/2178][флакон 35 мл в getpen]]
+*** в наличии
+флакон 35 мл
+** TODO De Atramentis Deepwater Obsession BlackRed :black:red:dark:
+*** где купить
+[[http://getpen.ru/de-atramentis-deepwater-obsession-blackred/i/2867][флакон 35 мл в getpen]]
+* Diamine [27/35]
+[[https://www.diamineinks.co.uk/][сайт производителя]]
+** DONE Diamine Teal :gray:blue:dark:
+Зеленовато-сине-серые (или зеленовато-серо-синие) не очень тёмные чернила, с хорошо различимым оттенком. Пригодны для повседневного письма.
+*** где купить
+[[http://getpen.ru/diamine-teal-80/i/2117][флакон 80 мл в getpen]]
+*** в наличии
+нет
+** DONE Diamine Sapphire Blue :blue:dark:violet:wet:
+Средне-тёмно-синие с фиолетовым оттенком чернила. Хороший насыщенный цвет. Текучие. Пригодны для повседневного письма.
+*** где купить
+[[http://getpen.ru/diamine-sapphireblue-80/i/1473][флакон 80 мл в getpen]]
+*** в наличии
+картриджи int short
+флакон 30 мл
+** DONE Diamine Blue Black :blue_black:dark:black:
+Тёмно-синие с зеленоватым оттенком чернила. В ручках с обильной подачей - почти чёрные. Пригодны для повседневного письма.
+*** где купить
+[[http://getpen.ru/diamine-blueblack-80/i/1465][флакон 80 мл в getpen]]
+*** в наличии
+флакон 80 мл
+картриджи int short
+** DONE Diamine Twilight :blue:dark:gray:
+Тёмный серо-синий, но светлее, чем Blue Black.
+*** где купить
+[[http://getpen.ru/diamine-twilight-30/i/2098][флакон 30 мл в getpen]]
+*** в наличии
+флакон 30 мл
+** DONE Diamine Asa Blue :blue:
+Интересный слегка зеленоватый синий цвет средней светлоты. Пригодны для повседневного письма.
+*** где купить
+[[http://getpen.ru/diamine-asa-blue-30/i/2100][флакон 30 мл в getpen]]
+*** в наличии
+флакон 30 мл
+** DONE Diamine Sargasso Sea :blue:dark:wet:
+Тёмно-синие чернила, довольно текучие. Не для всякой бумаги и для ручек со скудной подачей.
+*** где купить
+[[http://getpen.ru/diamine-sargassosea-30/i/2150][флакон 30 мл в getpen]]
+*** в наличии
+флакон 30 мл
+** DONE Diamine Majestic Blue :blue:dark:
+Тёмно-синие чернила. Пригодны для повседневного письма.
+*** где купить
+[[http://getpen.ru/diamine-majesticblue-30/i/1691][флакон 30 мл в getpen]], [[http://getpen.ru/diamine-majesticblue-80/i/1682][флакон 80 мл в getpen]]
+*** в наличии
+флакон 80 мл
+** DONE Diamine Grape :dark:violet:
+Очень удачный тёмный (но не слишком тёмный) фиолетовый. Пригоден для повседневного письма.
+*** где купить
+[[http://getpen.ru/diamine-Grape-30/i/2708][флакон 30 мл в getpen]]
+*** в наличии
+флакон 80 мл
+** DONE Diamine Midnight :dark:violet:black:
+Тёмно-синий с оттенком фиолетового. При искусственном свете и/или обильной подаче пера может выглядеть как фиолетово-чёрный. Пригоден для повседневного письма.
+*** где купить
+[[http://getpen.ru/diamine-midnight-80/i/2121][флакон 80 мл в getpen]]
+*** наличии
+флакон 80 мл
+** DONE Diamine Eclipse :dark:violet:black:
+Фиолетово-чёрные чернила, текучесть нормальная, пригодны для повседневного письма.
+*** где купить
+[[http://getpen.ru/diamine-eclipse-30/i/2132][флакон 30 мл в getpen]]
+*** в наличии
+флакон 30 мл
+** DONE Diamine Chocolate Brown :brown:dark:
+Насыщенный тёмно-коричневый цвет. Пригодны для повседневного письма.
+*** где купить
+[[http://getpen.ru/diamine-chocolate-brown-80/i/2119][флакон 80 мл в getpen]]
+*** в наличии
+нет
+** DONE Diamine Green Umber :green:gray:dark:
+Тёмный серо-зелёный.
+*** где купить
+[[http://getpen.ru/diamine-30-green-umber/i/5792][флакон 30 мл в getpen]]
+*** в наличии
+флакон 30 мл
+** DONE Diamine Delamere Green :green:dark:
+Средне-тёмно-зелёные чернила. Текучесть нормальная.
+*** где купить
+[[http://getpen.ru/diamine-DelamereGreen-30/i/2671][флакон 30 мл в getpen]]
+*** в наличии
+флакон 30 мл
+** DONE Diamine Oxblood :red:brown:dark:
+Темные коричневато-красные чернила. Могут засохнуть в ручке с "фломастерным" фидером
+(типа Carioca Stilo). Для выделения темноваты, для повседневного письма вряд ли подойдут по цвету.
+Но цвет красивый.
+*** где купить
+[[http://getpen.ru/diamine-oxblood-80/i/2127][флакон 80 мл в getpen]]
+*** в наличии
+флакон 30 мл
+картриджи
+** DONE Diamine Poppy Red :red:light:
+Насыщенный ярко-красный без лишних оттенков.
+*** где купить
+[[http://getpen.ru/diamine-PoppyRed-30/i/2689][флакон 30 мл в getpen]]
+*** в наличии
+флакон 30 мл
+** DONE Diamine Red Dragon :red:dark:
+Красные чернила, цветом напоминают венозную кровь.
+*** где купить
+[[http://getpen.ru/diamine-Red-Dragon-80/i/2697][флакон 80 мл в getpen]], [[http://getpen.ru/diamine-Red-Dragon-30/i/2698][флакон 30 мл в getpen]]
+*** в наличии
+флакон 30 мл
+** DONE Diamine Jet Black :black:dark:
+Насыщенные чёрные чернила. Текучесть нормальная.
+*** где купить
+[[http://getpen.ru/diamine-jetblack-30/i/1462][флакон 30 мл в getpen]]
+*** в наличии
+флакон 30 мл
+** DONE Diamine Amazing Amethyst                                    :violet:dark:
+Средне-тёмно-фиолетовые чернила. Текучие.
+*** где купить
+[[http://getpen.ru/diamine-amazyng-amethyst-80/i/2129][флакон 80 мл в getpen]], [[http://getpen.ru/diamine-amazyng-amethyst-30/i/2130][флакон 30 мл в getpen]]
+*** в наличии
+флакон 30 мл
+** DONE Diamine Bilberry :dark:violet:
+Тёмные сине-фиолетовые чернила.
+*** где купить
+[[http://getpen.ru/diamine-Bilberry-80/i/2702][флакон 80 мл в getpen]], [[http://getpen.ru/diamine-Bilberry-30/i/2703][флакон 30 мл в getpen]]
+*** в наличии
+флакон 30 мл
+** DONE Diamine Emerald                                              :green:
+Желтовато-зелёные (изумрудные) чернила, цвет средней насыщенности, слегка суховаты.
+*** где купить
+[[http://getpen.ru/diamine-emerald-30/i/2088][флакон 30 мл в getpen]]
+*** в наличии
+флакон 30 мл
+** DONE Diamine Green/Black                               :green:dark:black:
+Тёмно-зелёные чернила.
+*** где купить
+[[http://getpen.ru/diamine-Green-Black-30/i/2694][флакон 30 мл в getpen]]
+*** в наличии
+флакон 30 мл
+** DONE Diamine Kensington Blue                                       :blue:
+Средней насыщенности синие чернила, слегка текучие.
+*** где купить
+[[http://getpen.ru/diamine-kensington-blue-30/i/2092][флакон 30 мл в getpen]]
+*** в наличии
+флакон 30 мл
+** DONE Diamine Guitar Ink Pelham Blue                                :blue:
+Синие сероватые чернила, напоминают Asa Blue, но более насыщенные.
+*** где купить
+[[http://getpen.ru/diamine-30-guitar-pelham-blue/i/7842][флакон 30 мл в getpen]]
+*** в наличии
+флакон 30 мл
+** DONE Diamine Denim                                                 :blue:
+Тёмные серо-синие чернила.
+*** где купить
+[[http://getpen.ru/diamine-denim-30/i/2134][флакон 30 мл в getpen]]
+*** в наличии
+флакон 30 мл
+** DONE Diamine Damson :violet:black:
+Серо-фиолетовые чернила, "сухие" (не для ручек со скудной подачей).
+*** где купить
+[[http://getpen.ru/diamine-damson-30/i/1459][флакон 30 мл в getpen]]
+*** в наличии
+флакон 30 мл
+** DONE Diamine Amber :yellow:orange:
+Светлые оранжево-жёлтые чернила.
+*** где купить
+[[http://getpen.ru/diamine-Amber-30/i/2659][флакон 30 мл в getpen]]
+*** в наличии
+флакон 30 мл
+** DONE Diamine Indigo :gray:blue:
+Серо-синие чернила.
+*** где купить
+[[http://getpen.ru/diamine-indigo-30/i/2090][флакон 30 мл в getpen]]
+*** в наличии
+флакон 30 мл
+** TODO Diamine Crimson :red:
+*** где купить
+[[http://getpen.ru/diamine-Crimson-30/i/2664][флакон 30 мл в getpen]]
+** TODO Diamine Sherwood Green :green:
+[[http://getpen.ru/diamine-sherwood-green-30/i/2102][флакон 30 мл в getpen]]
+** TODO Diamine 150th Anniversary Blue Velvet :blue:
+*** где купить
+[[http://getpen.ru/diamine-bluevelvet-150/i/3183][флакон 40 мл в getpen]]
+** TODO Diamine 150th Anniversary Regency Blue :blue:
+*** где купить
+[[http://getpen.ru/diamine-regencyblue-150/i/3179][флакон 40 мл в getpen]]
+** TODO Diamine 150th Anniversary 1864 Blue Black :blue_black:blue:
+*** где купить
+[[http://getpen.ru/diamine-blueblack-150/i/3185][флакон 40 мл в getpen]]
+** TODO Diamine 150th Anniversary Dark Forest :green:
+*** где купить
+[[http://getpen.ru/diamine-darkforest-150/i/8328][флакон 40 мл в getpen]]
+** TODO Diamine 150th Anniversary Tudor Blue :blue:
+*** где купить
+[[http://getpen.ru/diamine-tudorblue-150/i/8332][флакон 40 мл в getpen]]
+** TODO Diamine 150th Anniversary Blood Orange :red:brown:orange:
+*** где купить
+[[http://getpen.ru/diamine-bloodorange-150/i/8325][флакон 40 мл в getpen]]
+* Kaweco [1/1]
+** DONE Kaweco Blue Black                             :blue_black:gray:dark:
+Хорошие синевато-фиолерово-серые чернила, пригодны для повседневного использования
+*** где купить
+[[http://getpen.ru/kaweco-ink-blueblack/i/2466][флакон 30 мл в getpen]]
+*** в наличии
+флакон 30 мл
+* Lamy [2/2]
+[[https://www.lamy.com/][сайт производителя]]
+** DONE Lamy Blue Black                               :blue_black:gray:dark:
+Хорошие серо-синие чернила, похожи на Pelikan 4001 Blue Black, когда те засохнут. На бумаге не растекаются, пригодны для повседневного письма.
+*** где купить
+[[http://getpen.ru/lamy-t10-blue-black/i/1703][картриджи T10 в getpen]], [[http://getpen.ru/lamy-ink-t52-50-blueblack/i/239][флакон T52 50 мл в getpen]]
+*** в наличии
+флакон T52 50 мл
+** DONE Lamy Blue :blue:
+Не испытывались.
+*** в наличии
+1 картридж из комплекта ручки
+* Parker [1/2]
+** DONE Parker Quink Blue Black :blue_black:blue:
+Нормальные не очень тёмные синие чернила, пригодны для повседневного письма
+*** где купить
+[[https://www.citilink.ru/catalog/furniture/business_gifts/rashodnye_materialy_premium/413919/][флакон 57 мл в ситилинке]]
+*** в наличии
+флакон 57 мл
+** TODO Parker Quink Blue :blue:
+*** где купить
+[[https://www.citilink.ru/catalog/furniture/business_gifts/rashodnye_materialy_premium/413918/][флакон 57 мл в ситилинке]]
+* Pelikan [1/2]
+[[https://www.pelikan.com/][сайт производителя]]
+** DONE Серия Pelikan 4001 [6/6]
+*** DONE Pelikan 4001 Blue-Black               :blue_black:blue:gray:ferro:
+Сине-чёрные ферро-галловые (если Pelikan опять не изменили состав) чернила.
+Цвет, в зависимости от подачи ручки и толщины пера - от серо-голубого до сине-чёрного,
+достаточно интересный. Через какое-то время после засыхания цвет становится ближе к серому и тёмно-серому соответственно.
+В некоторых ручках (со скупой подачей или странной конструкцией фидера, как у Carioca Stilo)
+могут слишком быстро засыхать в фидере или на конце пера.
+В подходящей ручке пригодны для повседневного письма.
+На минимально приличной бумаге (лишь бы не газетной и туалетной) не расплываются,
+не образуют "ёлочку".
+**** где купить
+[[https://www.citilink.ru/catalog/furniture/business_gifts/rashodnye_materialy_premium/1069915/][флакон 62.5 мл в ситилинке]], [[http://getpen.ru/pelikan-4001-62-blueblack/i/2233][флакон 62.5 мл в getpen]]
+[[https://www.citilink.ru/catalog/furniture/business_gifts/rashodnye_materialy_premium/1069871/][картриджи international long в ситилинке]]
+**** в наличии
+картриджи int long
+флакон 30 мл
+*** DONE Pelikan 4001 Dark Green                               :green:dark:
+Зелёные (не вот прямо тёмные, но и не бледные) чернила. Годятся для выделения, а если приспичит
+писать зелёным, то и для повседневного письма.
+Для перьев-макалок подходят плохо, т.к. плохо смачивают их поверхность.
+**** где купить
+[[https://www.citilink.ru/catalog/furniture/business_gifts/rashodnye_materialy_premium/483432/][картриджи в ситилинке]], [[https://www.citilink.ru/catalog/furniture/business_gifts/rashodnye_materialy_premium/483378/][флакон 30мл в ситилинке]]
+**** в наличии
+картриджи int short
+флакон 30 мл
+*** DONE Pelikan 4001 Brilliant Red                             :red:light:
+Ярко-красные, слегка бледноватые чернила. Хороши для выделения.
+**** где купить
+[[https://www.citilink.ru/catalog/furniture/business_gifts/rashodnye_materialy_premium/483432/][картриджи в ситилиние]]
+**** в наличии
+картриджи int short
+*** DONE Pelikan 4001 Royal Blue                                     :blue:
+Бледноватые синие чернила с лёгким фиолетовым оттенком. Нетребовательны к бумаге, пригодны для повседневного письма.
+**** где купить
+[[https://www.citilink.ru/catalog/furniture/business_gifts/rashodnye_materialy_premium/483374/][флакон 30 мл в ситилинке]]
+**** в наличии
+флакон 30 мл (обычные)
+флакон 62.5 мл (с "исторической" этикеткой в честь Гюнтера Вагнера)
+*** DONE Pelikan 4001 Brilliant Black                               :black:
+Чёрные чернила, достаточно насыщенные, пригодны для повседневного письма.
+**** где купить
+[[https://www.citilink.ru/catalog/furniture/business_gifts/rashodnye_materialy_premium/483376/][флакон 30 мл в ситилинке]]
+**** в наличии
+флакон 30 мл
+*** DONE Pelikan 4001 Violet                                       :violet:
+Умеренно-тёмные фиолетовые чернила, без лишних оттенков. Пригодны для повседневного письма.
+**** где купить
+[[https://www.citilink.ru/catalog/furniture/business_gifts/rashodnye_materialy_premium/483388/][флакон 30 мл в ситилинке]]
+**** в наличии
+флакон 30 мл
+** TODO Серия Pelikan Edelstein [1/2]
+*** DONE Pelikan Edelstein Tanzanite             :blue_black:gray:dark:wet:
+Серовато-фиолетово-синие тёмные чернила. По цвету похожи на Kaweco Blue Black и Lamy Blue Black, но темнее.
+По нормальной бумаге не растекаются, но более текучие, чем Pelikan 4001 Blue Black. Более скользкие, чем чернила 4001 серии.
+Пригодны для повседневного письма (с учётом бумаги).
+**** где купить
+[[http://getpen.ru/pelikan-edelstein-tanzanite/i/2240][флакон 50 мл в getpen]], [[https://www.citilink.ru/catalog/furniture/business_gifts/rashodnye_materialy_premium/483370/][флакон 50 мл в ситилинке]]
+**** в наличии
+флакон 50 мл
+*** TODO Pelikan Edelstein Topaz                                     :blue:
+**** где купить
+[[https://www.citilink.ru/catalog/furniture/business_gifts/rashodnye_materialy_premium/483365/][флакон 50 мл в citilink]]
+* Pilot [6/9]
+[[http://pilotpen.com/][международный сайт производителя]], [[http://www.pilotpen.ru/][российский представитель]]
+** DONE Pilot Blue Black :blue_black:blue:
+называются сине-чёрными, но в отличие от Lamy/Kaweco/Pelikan - тёмно-синие, а не сине-серые; хорошие чернила, пригодны для повседневного использования
+*** где купить
+[[http://getpen.ru/pilot-30-blueblack/i/6565][флакон 30 мл в getpen]]
+*** в наличии
+флакон 30 мл
+** DONE Pilot Black :black:
+обычные чёрные чернила, пригодны для повседневного использования
+*** где купить
+[[http://getpen.ru/pilot-ink30-black/i/965][флакон 30 мл в getpen]]
+*** в наличии
+флакон 30 мл
+** DONE Pilot Blue :blue:light:
+бледно-синие чернила, пригодны для повседневного использования
+*** где купить
+[[http://getpen.ru/pilot-ink30-blue/i/966][флакон 30 мл в getpen]]
+*** в наличии
+флакон 30 мл
+** DONE Pilot Iroshizuku Tsuki-yo :green:blue:gray:wet:
+Хорошие зеленовато-синевато-серые (teal?) чернила, слегка текучие. Пригодны для повседневного письма.
+*** где купить
+[[http://getpen.ru/pilot-iroshizuku-tsuki-yo/i/2342][флакон 50 мл в getpen]]
+*** в наличии
+флакон 15 мл
+** DONE Pilot Iroshizuku Yama-budo :fuchsia:violet:dark:wet:
+Качественные, но несколько текучие чернила красно-фиолетового цвета.
+Напоминают при разном освещении: винище или смородиновое варенье, а иногда очень тёмный вариант девАчковой фуксии. С таким цветом подходят скорее для баловства, чем для повседневного письма.
+*** где купить
+[[http://getpen.ru/pilot-iroshizuku-yama-budo/i/2347][флакон 50 мл в getpen]]
+*** в наличии
+флакон 15 мл
+** DONE Pilot Iroshizuku Kon-peki                           :blue:light:wet:
+Хорошие ярко-синие (похоже на Diamine Asa Blue, но светлее), слегка текучие. Пригодны для повседневного письма.
+*** где купить
+[[http://getpen.ru/pilot-iroshizuku-kon-peki-15/i/3969][флакон 15 мл в getpen]]
+*** в наличии
+флакон 15 мл
+** TODO Pilot Iroshizuku Asa-gao
+[[http://getpen.ru/pilot-iroshizuku-asa-gao/i/2339][флакон 50 мл в getpen]]
+** TODO Pilot Iroshizuku Fuyu-Syogun
+[[http://getpen.ru/pilot-iroshizuku-fuyu-syogun/i/3528][флакон 50 мл в getpen]]
+** TODO Pilot Iroshizuku Shin-kai
+[[http://getpen.ru/pilot-iroshizuku-shin-kai-15/i/3973][флакон 15 мл в getpen]]
+* Platinum [2/2]
+** DONE Platinum Black :black:
+Обычные (без особенностей) хорошие чёрные чернила.
+*** где купить
+[[http://getpen.ru/platinum-cartridges-black/i/817][картриджи в getpen]], [[http://getpen.ru/platinum-black-60/i/3728][флакон 60 мл в getpen]]
+*** в наличии
+картриджи
+** DONE Platinum Blue Black                                :blue:blue_black:
+Тёмно-синие (без серости) "маслянистые" чернила.
+*** где купить
+[[http://getpen.ru/platinum-cartridges-blue/i/816][картриджи в getpen]], [[http://getpen.ru/platinum-blueblack-60/i/3729][флакон 60 мл в getpen]]
+*** в наличии
+флакон 60 мл
+* Private Reserve [0/3]
+** TODO Private Reserve Ebony Blue
+[[http://getpen.ru/private-reserve-ebony-blue/i/4388][флакон 66 мл в getpen]]
+** TODO Private Reserve Naples Blue
+[[http://getpen.ru/private-reserve-naples-blue/i/4398][флакон 66 мл в getpen]]
+** TODO Private Reserve Electric D.C. Blue
+[[http://getpen.ru/private-reserve-electric-dc-blue/i/4392][флакон 66 мл в getpen]]
+* Rohrer&Klingner [2/4]
+** DONE Rohrer&Klingner Shreibtinte Verdigris :gray:blue:dark:
+Зеленовато-синевато-тёмно-серые чернила. Текучесть нормальная. Пригодны для повседневного письма.
+*** где купить
+[[http://getpen.ru/rohrer-klingner-verdigris%20/i/4150][флакон 50 мл в getpen]]
+*** в наличии
+флакон 50 мл
+** DONE Rohrer&Klingner Shreibtinte Eisen-Gallus Salix :gray:blue:dark:ferro:
+Тёмно-синие железо-галловые чернила. При засыхании темнеют до почти чёрного. Пригодны для повседневного письма.
+*** где купить
+[[http://getpen.ru/rohrer-klingner-salix/i/4157][флакон 50 мл в getpen]]
+*** в наличии
+флакон 50 мл
+** TODO Rohrer&Klingner Shreibtinte Konigsblau :blue:
+[[http://getpen.ru/rohrer-klingner-konigsblau%20/i/4147][флакон 50 мл в getpen]]
+** TODO Rohrer&Klingner Shreibtinte Eisen Gallus Scabiosa :ferro:
+[[http://getpen.ru/rohrer-klingner-scabiosa/i/4156][флакон 50 мл в getp
+* deVENTE [2/2]
+** DONE deVENTE фиолетовые                             :violet:methylviolet:
+[[http://devente.ru/chernila_dlya_perevyih_ruchek_deVENTE_5100705/][описание на сайте производителя]]
+Фиолетовые чернила, напоминают "Радугу-2", м.б. чуть менее насыщенные.
+На бумаге ведут себя нормально, в недешёвую авторучку заправлять стрёмно (ибо метилвиолет, скорее всего, который потом не отмоешь).
+*** где купить
+сеть "Скрепка"
+*** в наличии
+флакон 70 мл
+** DONE deVENTE синие                                                 :blue:
+По цвету напоминают сильно разбавленные Royal Blue.
+Скорее, не чернила, а крашеная вода - использовать нельзя, сильно растекаются по бумаге.
+Выпаривание не помогает - растекаются в любом случае.
+*** в наличии
+флакон 70 мл
+* Гамма Радуга-2 [3/3]
+** DONE Радуга-2 фиолетовые                            :violet:methylviolet:
+Почти что те самые фиолетовые советские чернила. Пишут нормально. Т.к. скорее всего на основе метилвиолета, для них нужна отдельная ручка (он от пластика не отмывается).
+*** в наличии
+флакон 70 мл
+** DONE Радуга-2 синие                                                :blue:
+Пригодные для повседневного письма чернила синего цвета. Достаточно насыщенные, не тёмные, без фиолетового оттенка.
+*** в наличии
+флакон 70 мл
+** DONE Радуга-2 чёрные                                              :black:
+Приличные чёрные чернила. Насыщенность вполне достаточная - не абсолютно чёрные, но и не серые. Слишком текучие, подойдут не для всякой бумаги (тут требуется проверка в авторучке).
+*** в наличии
+флакон 70 мл
