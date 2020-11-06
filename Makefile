@@ -13,6 +13,7 @@ srcs = orgmodeparser.py
 backupdir = ~/shareddocs/pgm/python/
 
 archive:
+	make todo
 	$(pack) $(srcarcname) *.py *.org Makefile *.geany $(docs)
 backup:
 	make archive
